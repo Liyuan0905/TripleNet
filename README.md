@@ -39,3 +39,11 @@ By leveraging the complementarity between the contour and content branches, we c
 - After testing, saliency maps of `PASCAL-S`, `ECSSD`, `HKU-IS`, `DUT-OMRON`, `DUTS-TE` will be saved in `./results_mean/` folder.
 
 
+
+## Result
+
++ Comparison with the previous state-of-the-art methods with different datasets:
+
+![比较结果](result.png)
+
+
