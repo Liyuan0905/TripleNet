@@ -47,3 +47,30 @@ By leveraging the complementarity between the contour and content branches, we c
 ![比较结果](result.png)
 
 
+
+## Trained Model
+
+You can test our model on your own datasets. The pre-trained model is available for download below.
+
+ResNet-50 (Baidu disk: https://pan.baidu.com/s/1v7Z5ToqdVKcdoi_fXxKYUw?pwd=y5hr 提取码: y5hr)
+Swin Transformer (https://pan.baidu.com/s/1KY5bjDzyZKH7tl3eyyL8XQ?pwd=2kr4 提取码: 2kr4)
+
+
+
+
+## Saliency Maps
+Results of our model on benchmark datasets(DUTS, DUT-OMRON, ECSSD, PASCAL-S, HKU-IS, SOD) can be found
+
+ResNet-50 (https://pan.baidu.com/s/1E7QOZAznk7E3QBpgOEnADw?pwd=6296 提取码: 6296)
+Swin Transformer (https://pan.baidu.com/s/1nPs5P5Mrg9jdO1OeCHiYrw?pwd=8awj 提取码: 8awj) 
+
+
+
+## Acknowledgement
+
+We appreciate the codebases of [TEP](https://github.com/JingZhang617/EBMGSOD).
+
+
+
+
+
